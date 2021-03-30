@@ -1,0 +1,11 @@
+C:\Users\Kabrina\Documents\GitHub Repos\Kruskals-Algorithm\KruskalsAlgorithm\PrimsAlgorithm\bin\Debug\netcoreapp3.1\KruskalsAlgorithm.exe
+C:\Users\Kabrina\Documents\GitHub Repos\Kruskals-Algorithm\KruskalsAlgorithm\PrimsAlgorithm\bin\Debug\netcoreapp3.1\KruskalsAlgorithm.deps.json
+C:\Users\Kabrina\Documents\GitHub Repos\Kruskals-Algorithm\KruskalsAlgorithm\PrimsAlgorithm\bin\Debug\netcoreapp3.1\KruskalsAlgorithm.runtimeconfig.json
+C:\Users\Kabrina\Documents\GitHub Repos\Kruskals-Algorithm\KruskalsAlgorithm\PrimsAlgorithm\bin\Debug\netcoreapp3.1\KruskalsAlgorithm.runtimeconfig.dev.json
+C:\Users\Kabrina\Documents\GitHub Repos\Kruskals-Algorithm\KruskalsAlgorithm\PrimsAlgorithm\bin\Debug\netcoreapp3.1\KruskalsAlgorithm.dll
+C:\Users\Kabrina\Documents\GitHub Repos\Kruskals-Algorithm\KruskalsAlgorithm\PrimsAlgorithm\bin\Debug\netcoreapp3.1\KruskalsAlgorithm.pdb
+C:\Users\Kabrina\Documents\GitHub Repos\Kruskals-Algorithm\KruskalsAlgorithm\PrimsAlgorithm\obj\Debug\netcoreapp3.1\KruskalsAlgorithm.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\GitHub Repos\Kruskals-Algorithm\KruskalsAlgorithm\PrimsAlgorithm\obj\Debug\netcoreapp3.1\KruskalsAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Kabrina\Documents\GitHub Repos\Kruskals-Algorithm\KruskalsAlgorithm\PrimsAlgorithm\obj\Debug\netcoreapp3.1\KruskalsAlgorithm.AssemblyInfo.cs
+C:\Users\Kabrina\Documents\GitHub Repos\Kruskals-Algorithm\KruskalsAlgorithm\PrimsAlgorithm\obj\Debug\netcoreapp3.1\KruskalsAlgorithm.dll
+C:\Users\Kabrina\Documents\GitHub Repos\Kruskals-Algorithm\KruskalsAlgorithm\PrimsAlgorithm\obj\Debug\netcoreapp3.1\KruskalsAlgorithm.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kabrina\\Documents\\GitHub Repos\\Kruskals-Algorithm\\KruskalsAlgorithm\\KruskalsAlgorithm\\KruskalsAlgorithm.csproj": {}
+    "C:\\Users\\Kabrina\\Documents\\GitHub Repos\\Kruskals-Algorithm\\KruskalsAlgorithm\\PrimsAlgorithm\\KruskalsAlgorithm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kabrina\\Documents\\GitHub Repos\\Kruskals-Algorithm\\KruskalsAlgorithm\\KruskalsAlgorithm\\KruskalsAlgorithm.csproj": {
+    "C:\\Users\\Kabrina\\Documents\\GitHub Repos\\Kruskals-Algorithm\\KruskalsAlgorithm\\PrimsAlgorithm\\KruskalsAlgorithm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kabrina\\Documents\\GitHub Repos\\Kruskals-Algorithm\\KruskalsAlgorithm\\KruskalsAlgorithm\\KruskalsAlgorithm.csproj",
+        "projectUniqueName": "C:\\Users\\Kabrina\\Documents\\GitHub Repos\\Kruskals-Algorithm\\KruskalsAlgorithm\\PrimsAlgorithm\\KruskalsAlgorithm.csproj",
         "projectName": "KruskalsAlgorithm",
-        "projectPath": "C:\\Users\\Kabrina\\Documents\\GitHub Repos\\Kruskals-Algorithm\\KruskalsAlgorithm\\KruskalsAlgorithm\\KruskalsAlgorithm.csproj",
+        "projectPath": "C:\\Users\\Kabrina\\Documents\\GitHub Repos\\Kruskals-Algorithm\\KruskalsAlgorithm\\PrimsAlgorithm\\KruskalsAlgorithm.csproj",
         "packagesPath": "C:\\Users\\Kabrina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kabrina\\Documents\\GitHub Repos\\Kruskals-Algorithm\\KruskalsAlgorithm\\KruskalsAlgorithm\\obj\\",
+        "outputPath": "C:\\Users\\Kabrina\\Documents\\GitHub Repos\\Kruskals-Algorithm\\KruskalsAlgorithm\\PrimsAlgorithm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
